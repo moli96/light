@@ -6,12 +6,7 @@ sitemap: false
 permalink: /
 ---
 ## Research Synopsis
-Our research focuses on integrated photonic systems, optoelectronic materials, and quantum phenomena. Our interests span from fundamental physics to engineering and technology. We conduct experimental studies on the fundamental coupling and interaction between photons, electrons, spins, and phonons in a hybrid of nanoscale devices and materials. We employ state-of-the-art top-down approaches to fabricate devices and structures with various materials. We utilize integrated photonic circuits as optical breadboards to investigate and exploit the optoelectronic properties of novel materials, including 2D, magnetic, and quantum materials. We perform measurement over an ultrawide spectral/frequency range from radio frequency and microwave to the infrared and the visible. We strive to measure fundamental physics phenomena with the highest possible precision, develop novel devices for microwave, optical, and quantum communication and computation, and create new technologies of optical sensing, imaging, infrared detection, chemical and biomedical sensing, and neuroscience.
-
-
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+Our research focuses on integrated photonic systems, optoelectronic materials, and quantum phenomena. Our interests span from fundamental physics to engineering and technology. We conduct experimental studies on the fundamental coupling and interaction between photons, electrons, spins, and phonons in a hybrid of nanoscale devices and materials. We employ state-of-the-art top-down approaches to fabricate devices and structures with various materials. We utilize integrated photonic circuits as optical breadboards to investigate and exploit the optoelectronic properties of novel materials, including 2D, magnetic, and quantum materials. We perform measurements over an ultrawide spectral/frequency range from radio frequency and microwave to the infrared and the visible. We strive to measure fundamental physics phenomena with the highest possible precision, develop novel devices for microwave, optical, and quantum communication and computation, and create new technologies of optical sensing, imaging, infrared detection, chemical and biomedical sensing, and neuroscience.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -56,14 +51,7 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
   </a>
 </div>
 
-
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
-
-
-
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
