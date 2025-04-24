@@ -17,6 +17,13 @@
   education1: Ph.D., ECE, University of Washington
   education2: B.S., ECE, University of Minnesota, Twin Cities
 
+- name: I-Tung Chen
+  photo: I-Tung.jpg
+  info: Grad Student (ECE)
+  email: itungc@uw.edu
+  number_educ: 1
+  education1: B.S. National Tsing-Hua University, Taiwan
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
