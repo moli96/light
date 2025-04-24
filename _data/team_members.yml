@@ -22,7 +22,56 @@
   info: Grad Student (ECE)
   email: itungc@uw.edu
   number_educ: 1
-  education1: B.S. National Tsing-Hua University, Taiwan
+  education1: B.S., National Tsing-Hua University, Taiwan
+
+- name: Adina Ripin
+  photo: Adina.jpg
+  info: Grad Student (Physics)
+  email: aripin@uw.edu
+  number_educ: 1
+  education1: B.S., University of Rochester
+
+- name: Qixuan Lin
+  photo: Qixuan.jpg
+  info: Grad Student (ECE)
+  email: linqx@uw.edu
+  number_educ: 1
+  education1: B.S., University of Science and Technology of China (USTC)
+
+- name: Shucheng Fang
+  photo: Shucheng.jpg
+  info: Grad Student (ECE)
+  email: scfang@uw.edu
+  number_educ: 1
+  education1: B.S., University of Science and Technology of China (USTC)
+
+- name: Haoqin Deng
+  photo: Haoqin.jpg
+  info: Grad Student (ECE)
+  email: haoqinde@uw.edu
+  number_educ: 1
+  education1: B.S., University of Southern California
+
+- name: Yue Yu
+  photo: Yue.jpg
+  info: Grad Student (ECE)
+  email: yyu1@uw.edu
+  number_educ: 1
+  education1: B.S., Peking University
+  
+- name: Ameya Velankar
+  photo: Ameya.jpg
+  info: Grad Student (ECE)
+  email: velankar@uw.edu
+  number_educ: 1
+  education1: B.S., University of Pittsburgh
+
+- name: Mark Han
+  photo: Mark.jpg
+  info: Grad Student (ECE)
+  email: zhan92@uw.edu
+  number_educ: 1
+  education1: B.S., University of Wisconsin, Madison
   
 - name: "This could be you !"
   photo: rock.jpg
