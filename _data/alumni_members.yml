@@ -3,13 +3,90 @@
   Role: Graduate student
   Current Position: Analog Photonics
   number_educ: 1
-  education1: Ph.D. University of Washington 2024
+  education1: Ph.D. University of Washington (2024)
 
 - name: Dr. Seokhyeong Lee
   photo: Seokhyeong.jpg
   Role: Graduate student
   Current Position: Meta
   number_educ: 1
-  education1: Ph.D. University of Washington 2023
+  education1: Ph.D. University of Washington (2023)
   
+- name: Dr. Ruoming Peng
+  photo: Ruoming.jpg
+  Role: Graduate student
+  Current Position: Postdoc, University of Stuttgart
+  number_educ: 1
+  education1: Ph.D. University of Washington (2022)
+
+  - name: Dr. Han Zhao
+  photo: Han.jpg
+  Role: Postdoc
+  Current Position: Asst. Prof., Univ. of Central Florida
+  number_educ: 1
+  education1: Ph.D. University of Pennsylvania (2020)
+    
+- name: Dr. Qiyu Liu
+  photo: Qiyu.jpg
+  Role: Graduate student
+  Current Position: Industry, China
+  number_educ: 1
+  education1: Ph.D. University of Washington (2020)
+
+- name: Dr. Che Chen
+  photo: Che.jpg
+  Role: Graduate student
+  Current Position: Micron Technology
+  number_educ: 1
+  education1: Ph.D. University of Minnesota, Twin Cities (2018)
+  
+- name: Dr. Li He
+  photo: Li.jpg
+  Role: Graduate student
+  Current Position: Postdoc, University of Pennsylvania
+  number_educ: 1
+  education1: Ph.D. University of Minnesota, Twin Cities (2018)
+    
+- name: Dr. Junyang Chen
+  photo: Junyang.jpg
+  Role: Postdoc
+  Current Position: HFC Semiconductor Corp
+  number_educ: 1
+  education1: Ph.D. Institute of Physics, CAS (2015)
+
+- name: Prof. Nathan Youngblood
+  photo: Nathan.jpg
+  Role: Graduate Student
+  Current Position: Asst. Prof., <a href="https://pitt-photonics.github.io/" target="_blank">University of Pittsburgh</a>
+  number_educ: 1
+  education1: Ph.D. University of Minnesota, Twin Cities (2016)
+
+- name: Dr. Euijae Shim
+  photo: Euijae.jpg
+  Role: Graduate student
+  Current Position: Luxtera, CA
+  number_educ: 1
+  education1: Ph.D. Columbia University (2024)
+
+- name: Dr. Semere Tadesse
+  photo: Semere.jpg
+  Role: Graduate student
+  Current Position: Intel
+  number_educ: 1
+  education1: Ph.D. University of Minnesota, Twin Cities (2016)
+
+- name: Prof. Huan Li
+  photo: Huan.jpg
+  Role: Graduate student
+  Current Position: Professor, Zhejiang University, China
+  number_educ: 1
+  education1: Ph.D. University of Minnesota, Twin Cities (2015)
+
+  
+- name: Prof. Yu Chen
+  photo: Yu.jpg
+  Role: Graduate student
+  Current Position: RKMC LLP, Minneapolis
+  number_educ: 1
+  education1: Ph.D. University of Minnesota, Twin Cities (2014)
 
