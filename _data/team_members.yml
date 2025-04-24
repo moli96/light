@@ -1,13 +1,13 @@
 - name: Mo Li
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
+  photo: Mo.jpg
+  info:  Professor, ECE and Physics
+  email: moli96@uw.edu
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: Faculty, University of Minnesota, Twin Cities (2010-2018)
+  education2: Postdoc, Yale University (2007-2010)
+  education3: Ph.D., Applied Physics, Caltech (2007)
+  education4: M.S., Physics, UCSD (2003)
+  education5: B.S., Physics, Univ. Sci. and Tech. of China (2001)
 
 - name: Jiasen Niu
   photo: Jiasen.png
