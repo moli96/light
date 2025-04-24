@@ -75,7 +75,7 @@
   
 - name: "This could be you !"
   photo: avatar.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="https://moli96.github.io/light/vacancies">openings</a> for more info
   email: moli96@uw.edu
   number_educ: 0
   education1:
