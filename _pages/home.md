@@ -52,8 +52,8 @@ Our research focuses on integrated photonic systems, optoelectronic materials, a
 </div>
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DARPA_Logo.jpg" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ONR_logo.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WRF_logo.jpg" style="width: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpg" style="width: 100px">  &nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DARPA_Logo.jpg" style="width: 160px">  &nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ONR_logo.png" style="width: 160px">  &nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WRF_logo.jpg" style="width: 250px">  &nbsp;
 </figure>
