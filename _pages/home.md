@@ -5,8 +5,6 @@ excerpt: "Mo Li Lab at University of Washington ECE."
 sitemap: false
 permalink: /
 ---
-## Research Synopsis
-Our research focuses on integrated photonic systems, optoelectronic materials, and quantum phenomena. Our interests span from fundamental physics to engineering and technology. We conduct experimental studies on the fundamental coupling and interaction between photons, electrons, spins, and phonons in a hybrid of nanoscale devices and materials. We employ state-of-the-art top-down approaches to fabricate devices and structures with various materials. We utilize integrated photonic circuits as optical breadboards to investigate and exploit the optoelectronic properties of novel materials, including 2D, magnetic, and quantum materials. We perform measurements over an ultrawide spectral/frequency range from radio frequency and microwave to the infrared and the visible. We strive to measure fundamental physics phenomena with the highest possible precision, develop novel devices for microwave, optical, and quantum communication and computation, and create new technologies of optical sensing, imaging, infrared detection, chemical and biomedical sensing, and neuroscience.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -44,6 +42,9 @@ Our research focuses on integrated photonic systems, optoelectronic materials, a
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+## Research Synopsis
+Our research focuses on integrated photonic systems, optoelectronic materials, and quantum phenomena. Our interests span from fundamental physics to engineering and technology. We conduct experimental studies on the fundamental coupling and interaction between photons, electrons, spins, and phonons in a hybrid of nanoscale devices and materials. We employ state-of-the-art top-down approaches to fabricate devices and structures with various materials. We utilize integrated photonic circuits as optical breadboards to investigate and exploit the optoelectronic properties of novel materials, including 2D, magnetic, and quantum materials. We perform measurements over an ultrawide spectral/frequency range from radio frequency and microwave to the infrared and the visible. We strive to measure fundamental physics phenomena with the highest possible precision, develop novel devices for microwave, optical, and quantum communication and computation, and create new technologies of optical sensing, imaging, infrared detection, chemical and biomedical sensing, and neuroscience.
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpg" style="width: 100px">  &nbsp; &nbsp; &nbsp;
