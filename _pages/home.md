@@ -51,11 +51,9 @@ Our research focuses on integrated photonic systems, optoelectronic materials, a
   </a>
 </div>
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DARPA_Logo.jpg" style="width: 160px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ONR_logo.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WRF_logo.jpg" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WRF_logo.jpg" style="width: 250px">
 </figure>
