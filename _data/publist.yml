@@ -6,3 +6,21 @@
     url: https://arxiv.org/abs/2409.15928
     display: arXiv
   highlight: 1
+  
+- title: "Intermodal microwave-to-optical transduction using silicon-on-sapphire optomechanical ring resonator"
+  image: 
+  description: 
+  authors: I-Tung Chen, Nicholas S. Yama, Haoqin Deng, Qixuan Lin, Yue Yu, Abhi Saxena, Arka Majumdar, Kai-Mei C. Fu, Mo Li
+  link:
+    url: 
+    display: submitted (2025)
+  highlight: 1
+
+- title: "Low-Voltage Avalanche Heterojunction Phototransistor for Infrared-to-Visible Upconversion"
+  image: 
+  description: 
+  authors: Seokhyeong Lee, David Alexander Montealegre, Yihao Song, I-Tung Chen, Bora Kim, Mijung Kim, Minjoo Larry Lee, Fengnian Xia, Mo Li
+  link:
+    url: 
+    display: submitted (2025)
+  highlight: 1
