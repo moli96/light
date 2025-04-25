@@ -1,18 +1,12 @@
 ---
 title: "Mo Li Lab - Research"
-layout: gridlay
+layout: textlay
 excerpt: "Mo Li Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
-
-<div class="col-sm-12">
- <div class="well">
-  <p>Integrated optical beam steering for sensing and communication</p>
-  </div>
-</div>
 
 ## Integrated optical beam steering for sensing and communication
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/lidar.png){: style="width: 250px; float: left; margin: 0px  10px"}
