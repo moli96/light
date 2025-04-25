@@ -1,6 +1,5 @@
 - title: "Intermodal microwave-to-optical transduction using silicon-on-sapphire optomechanical ring resonator"
   authors: I-Tung Chen, Nicholas S. Yama, Haoqin Deng, Qixuan Lin, Yue Yu, Abhi Saxena, Arka Majumdar, Kai-Mei C. Fu, and Mo Li
-  link:
     display: Submitted (2025)
 
 - title: "Low-Voltage Avalanche Heterojunction Phototransistor for Infrared-to-Visible Upconversion"
@@ -13,128 +12,120 @@
   link:
     display: arXiv:2409.16511 (2025)
     
-- title: "Roadmap on Neuromorphic Photonics"
-  authors: Brunner et al.
-  link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
-
 - title: "Reconfigurable inverse designed phase-change photonics"
   authors: Changming Wu, Ziyu Jiao, Haoqin Deng, Yi-Siou Huang, Heshan Yu, Ichiro Takeuchi, Carlos A. Ríos Ocampo, Mo Li
   link:
-  display: APL Photonics 10, 016113 (2025)
+    display: APL Photonics 10, 016113 (2025)
   
 - title: "Post-processing of phase change material in a zero-change commercial silicon photonic process"
   authors: Adya, Uthkarsh, Daniel Sturm, Rui Chen, Changming Wu, Arka Majumdar, Mo Li, and Sajjad Moazeni
   link:
-  display: Optics Express 32, 27552-27562 (2024)
+    display: Optics Express 32, 27552-27562 (2024)
 
 - title: "Absence of Weyl nodes in EuCd2As2 revealed by the carrier density dependence of the anomalous Hall effect"
   authors: Yue Shi, Zhaoyu Liu, Logan A. Burnett, Seokhyeong Lee, Chaowei Hu, Qianni Jiang, Jiaqi Cai, Xiaodong Xu, Mo Li, Cheng-Chien Chen, and Jiun-Haw Chu
   link:
-  display: Phys. Rev. B 109, 125202 (2024)
+    display: Phys. Rev. B 109, 125202 (2024)
 
 - title: "Freeform Direct-write and Rewritable Photonic Integrated Circuits in Phase-Change Thin Films"
   authors: Changming Wu, Haoqin Deng, Yi-Siou Huang, Heshan Yu, Ichiro Takeuchi, Carlos A. Ríos Ocampo and Mo Li
   link:
-  display: Science Advances 10, eadk1361 (2024)
+    display: Science Advances 10, eadk1361 (2024)
 
 - title: "Silicon-lattice-matched boron-doped gallium phosphide: A scalable acousto-optic platform"
   authors: Nicholas S. Yama, I-Tung Chen, Srivatsa Chakravarthi, Bingzhao Li, Christian Pederson, Bethany E. Matthews, Steven R. Spurgeon, Daniel E. Perea, Mark G. Wirth, Peter V. Sushko, Mo Li, Kai-Mei C. Fu
   link:
-  display: Advanced Materials 36, 2305434 (2024)
+    display: Advanced Materials 36, 2305434 (2024)
 
 - title: "Visible Wavelength Flatband in a Gallium Phosphide Metasurface"
   authors: Christopher Munley, Arnab Manna, David Sharp, Minho Choi, Hao A. Nguyen, Brandi M. Cossairt, Mo Li, Arthur W. Barnard, Arka Majumdar
   link:
-  display: ACS Photonics 10, 2456-2460 (2023)
+    display: ACS Photonics 10, 2456-2460 (2023)
 
 - title: "Optomechanical ring resonator for efficient microwave-optical frequency conversion"
   authors: I-Tung Chen, Bingzhao Li, Seokhyeong Lee, Srivatsa Chakravarthi, Kai-Mei Fu, and Mo Li
   link:
-  display: Nature Communications 14, 7594 (2023)
+    display: Nature Communications 14, 7594 (2023)
 
 - title: "Frequency-Angular Resolving LiDAR using Chip-scale Acousto-optic Beam Steering"
   authors: Bingzhao Li, Qixuan Li, and Mo Li
   link:
-  display: Nature 620, 316 (2023)
+    display: Nature 620, 316 (2023)
 
 - title: "Tunable phononic coupling in excitonic quantum emitters"
   authors: Adina Ripin, Ruoming Peng, Xiaowei Zhang, Srivatsa Chakravarthi, Minhao He, Xiaodong Xu, Kai-Mei Fu, Ting Cao, and Mo Li
   link:
-  display: Nature Nanotechnology 18, 1020-1026 (2023)
+    display: Nature Nanotechnology 18, 1020-1026 (2023)
 
 - title: "Photonic Bayesian Neural Network using Programmed Optical Noises"
   authors: Changming Wu, Xiaoxuan Yang, Yiran Chen, and Mo Li
   link:
-  display: Journal of Selected Topics in Quantum Electronics 29, 6100606 (2022)
+    display: Journal of Selected Topics in Quantum Electronics 29, 6100606 (2022)
 
 - title: "Enabling scalable optical computing in synthetic frequency dimension using integrated cavity acousto-optics"
   authors: Han Zhao, Bingzhao Li, Mo Li
   link:
-  display: Nature Communications 13, 5426 (2022)
+    display: Nature Communications 13, 5426 (2022)
 
 - title: "Tolerating Noise Effects in Processing-in-Memory Systems for Neural Networks: A Hardware--Software Codesign Perspective"
   authors: Xiaoxuan Yang, Changming Wu, Mo Li, Yiran Chen
   link:
-  display: Advanced Intelligent Systems 4:2200029 (2022)
+    display: Advanced Intelligent Systems 4:2200029 (2022)
 
 - title: "Long-range transport of 2D excitons with acoustic waves"
   authors: Puoming Peng, Adina Ripin, Yusen Ye, Jiayi Zhu, Changming Wu, Seokhyeong Lee, Huan Li, Takashi Taniguchi, Kenji Watanabe, Ting Cao, Xiaodong Xu, Mo Li
   link:
-  display: Nature Communications 13, 1334 (2021)
+    display: Nature Communications 13, 1334 (2021)
 
 - title: "Programmable black phosphorus image sensor for broadband optoelectronic edge computing"
   authors: Seokhyeong Lee, Ruoming Peng, Changming Wu, and Mo Li
   link:
-  display: Nature Communications 13, 1485 (2022)
+    display: Nature Communications 13, 1485 (2022)
 
 - title: "Harnessing Optoelectronic Noises in a Photonic Generative Network"
   authors: Changming Wu, Xiaoxuan Yang, Heshan Yu, Ruoming Peng, Ichiro Takeuchi, Yiran Chen, Mo Li
   link:
-  display: Science Advances 8, eabm2956 (2022)
+    display: Science Advances 8, eabm2956 (2022)
 
 - title: "Photonic Platforms Using In-Plane Optical Anisotropy of Tin (II) Selenide and Black Phosphorus"
   authors: Seong Soon Jo, Changming Wu, Linghan Zhu, Li Yang, Mo Li, Rafael Jaramillo
   link:
-  display: Advanced Photonics Research 2100176 (2021)
-  url: https://doi.org/10.1002/adpr.202100176
+    display: Advanced Photonics Research 2100176 (2021)
 
 - title: "Direct Visualization of Gigahertz Acoustic Wave Propagation in Suspended Phononic Circuits"
   authors: Daehun Lee, Qiyu Liu, Lu Zheng, Xuejian Ma, Huan Li, Mo Li, Keji Lai
   link:
-  display: Physical Review Applied 16, 034047 (2021)
-  url: https://doi.org/10.1103/PhysRevApplied.16.034047
-
+    display: Physical Review Applied 16, 034047 (2021)
+  
 - title: "Myths and truths about optical phase change materials: A perspective"
   authors: Yifei Zhang, Carlos Ríos, Mikhail Y. Shalaginov, Mo Li, Arka Majumdar, Tian Gu, and Juejun Hu
   link:
-  display: Applied Physics Letters 118, 210501 (2021)
+    display: Applied Physics Letters 118, 210501 (2021)
 
 - title: "Surface Modification of Black Phosphorus with Group 13 Lewis Acids for Ambient Protection and Electronic Tuning"
   authors: Daniel Tofan, Yukako Sakazaki, Kendahl L Walz Mitra, Ruoming Peng, Seokhyeong Lee, Mo Li, Alexandra Velian
   link:
-  display: Angewandte Chemie (2021)
+    display: Angewandte Chemie (2021)
 
 - title: "Programmable Phase-change Metasurface on Waveguide for Multimode Photonic Convolutional Neural Network"
   authors: Changming Wu, Heshan Yu, Seokhyeong Lee, Ruoming Peng, Ichiro Takeuchi, and Mo Li
   link:
-  display: Nature Communications 12, 1-8 (2021)
+    display: Nature Communications 12, 1-8 (2021)
 
 - title: "On-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active Learning"
   authors: Heshan Yu, Changming Wu, Huairuo Zhang, Jason Hattrick-Simpers, Brian DeCost, Suchismita Sarker, Corey Oses, Cormac Toher, Stefano Curtarolo, Albert Davydov, Ritesh Agarwal, Leonid A. Bendersky, Mo Li, Apurva Mehta, Ichiro Takeuchi
   link:
-  display: Nature Communications 11, 1-11 (2020)
+    display: Nature Communications 11, 1-11 (2020)
 
 - title: "Nonvolatile Electrically Reconfigurable Integrated Photonic Switch Enabled by a Silicon PIN Diode Heater"
   authors: Jiajiu Zheng, Zhuoran Fang, Changming Wu, Shifeng Zhu, Peipeng Xu, Jonathan K. Doylend, Sanchit Deshmukh, Eric Pop, Scott Dunham, Mo Li, Arka Majumdar
   link:
-  display: Advanced Materials 32, 2001218 (2020)
+    display: Advanced Materials 32, 2001218 (2020)
 
 - title: "Seperation of valley exciton-polariton in 2D semiconductors with anisotropic photonic crystal"
   authors: Ruomng Peng, Changming Wu, Huan Li, Xiaodong Xu, Mo Li
   link:
-  display: Physical Review B 101, 245418 (2020)
+    display: Physical Review B 101, 245418 (2020)
 
 - title: "Coupled-Mode Theory for Plasmonic Resonators Integrated with Silicon Waveguides towards Mid-Infrared Spectroscopic Sensing"
   authors: Che Chen, Sang-Hyun Oh, Mo Li
