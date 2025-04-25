@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-14 clearfix">
  <div class="well">
 <b>Integrated optical beam steering for sensing and communication</b>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/lidar.png" class="img-responsive" width="33%" style="float: left margin: 0px  10px" />
@@ -41,7 +41,7 @@ permalink: /research/
 <div class="col-sm-12 clearfix">
  <div class="well">
 <b>Quantum Material Optoelectronics</b>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wse2.png" class="img-responsive" width="33%" style="float: left margin: 0px  10px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wse2.jpg" class="img-responsive" width="33%" style="float: left margin: 0px  10px" />
 <p>Emerging 2D and quantum materials, such as graphene, black phosphorus, transition metal dichalcogenides (TMDCs), layered topological insulators, and twisted 2D systems, hold immense potential for quantum photonics. Our research focuses on generating and manipulating quantum light within these materials and integrating them with photonic and optomechanical circuits. Our ultimate goal is to develop a quantum photonic circuit system for next-generation communication and sensing applications.</p>
 <p>Ref: Ripin, et al., Nature Nanotechnology (2023) </p>
 <p>Ref: Peng, et al., Nature Communications (2022) </p>
