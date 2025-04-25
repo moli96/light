@@ -21,7 +21,7 @@ Ref: Wu, et al., Science Advances (2024)
 
 ## Cavity optomechanics and acousto-optics
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/omr.png){: style="width: 250px; float: left; margin: 0px  10px"}
-Light-matter interaction is inevitably accompanied by mechanical effects because each photon carries both linear and angular momentum—orbital and spin—that will be transferred to the matter. These optomechanical effects become very strong in nanophotonic devices because of much-enhanced field intensity and thus strong light-matter interaction. In nano-optomechanical systems (NOMS), the pronounced optomechanical effects have been exploited in highly integrated photonic devices for both classical applications, such as optical signal process and communication, and for quantum applications, such as quantum transduction and quantum sensing.
+Light-matter interaction is inevitably accompanied by mechanical effects because each photon carries both linear and angular momentum—orbital and spin—that will be transferred to the matter. These optomechanical effects become very strong in nanophotonic devices because of much-enhanced field intensity and thus strong light-matter interaction. In nano-optomechanical systems (NOMS), the pronounced optomechanical effects have been exploited in highly integrated photonic devices for both classical applications, such as optical signal processing and communication, and for quantum applications, such as quantum transduction and quantum sensing.
 
 Ref: Chen, et al., Nature Communications (2023)
 
