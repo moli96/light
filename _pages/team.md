@@ -86,7 +86,7 @@ permalink: /team/
   <i>Role: {{ member.Role }} <br> Current position: {{ member["Current Position"] }}</i>
   <ul style="overflow: hidden">
     {% if member.number_educ == 1 %}
-    <li> {{ member.education1 }} </li>
+   {{ member.education1 }}
     {% endif %}
   
     {% if member.number_educ == 2 %}
