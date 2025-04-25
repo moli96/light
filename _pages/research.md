@@ -18,7 +18,7 @@ permalink: /research/
  </div>
 </div>
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-14 clearfix">
  <div class="well">
 <b>Direct-write photonic integrated circuits in phase-change materials</b>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/pcm.png" class="img-responsive" width="33%" style="float: right; margin-left: 10px;" />
@@ -28,7 +28,7 @@ permalink: /research/
  </div>
 </div>
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-14 clearfix">
  <div class="well">
 <b>Cavity optomechanics and acousto-optics</b>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/omr.png" class="img-responsive" width="33%" style="float: left; margin-right: 10px;"/>
@@ -38,7 +38,7 @@ permalink: /research/
  </div>
 </div>
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-14 clearfix">
  <div class="well">
 <b>Quantum Material Optoelectronics</b>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wse2.jpg" class="img-responsive" width="33%" style="float: right; margin-left: 10px;" />
@@ -49,7 +49,7 @@ permalink: /research/
  </div>
 </div>
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-14 clearfix">
  <div class="well">
 <b>Photonics Sensors</b>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/seira.png" class="img-responsive" width="33%" style="float: left; margin-right: 10px;"/>
