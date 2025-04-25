@@ -8,10 +8,9 @@ permalink: /research/
 
 # Research
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-12">
  <div class="well">
   <p>Integrated optical beam steering for sensing and communication</p>
- 
   </div>
 </div>
 
