@@ -7,4 +7,3 @@ permalink: /research/
 ---
 
 # Research
-## Integrated optical beam steering for sensing and communication
