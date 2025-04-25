@@ -17,6 +17,12 @@
   authors: Changming Wu, Ziyu Jiao, Haoqin Deng, Yi-Siou Huang, Heshan Yu, Ichiro Takeuchi, Carlos A. Ríos Ocampo, Mo Li
   link:
     display: APL Photonics 10, 016113 (2025)
+
+- title: "OFHE: An Electro-Optical Accelerator for Discretized TFHE"
+  authors: Mengxin Zheng, Cheng Chu, Qian Lou, Nathan Youngblood, Mo Li, Sajjad Moazeni, Lei Jiang
+  link:
+    url: https://arxiv.org/abs/2405.11607
+    display: Proceedings of the 29th ACM/IEEE International Symposium on Low Power Electronics and Design (2024)
   
 - title: "Post-processing of phase change material in a zero-change commercial silicon photonic process"
   authors: Adya, Uthkarsh, Daniel Sturm, Rui Chen, Changming Wu, Arka Majumdar, Mo Li, and Sajjad Moazeni
@@ -36,7 +42,8 @@
 - title: "Silicon-lattice-matched boron-doped gallium phosphide: A scalable acousto-optic platform"
   authors: Nicholas S. Yama, I-Tung Chen, Srivatsa Chakravarthi, Bingzhao Li, Christian Pederson, Bethany E. Matthews, Steven R. Spurgeon, Daniel E. Perea, Mark G. Wirth, Peter V. Sushko, Mo Li, Kai-Mei C. Fu
   link:
-    display: Advanced Materials 36, 2305434 (2024)
+    url: https://doi.org/10.1002/adma.202305434
+    display: Advanced Materials 36, 2305434 (2023)
 
 - title: "Visible Wavelength Flatband in a Gallium Phosphide Metasurface"
   authors: Christopher Munley, Arnab Manna, David Sharp, Minho Choi, Hao A. Nguyen, Brandi M. Cossairt, Mo Li, Arthur W. Barnard, Arka Majumdar
@@ -51,6 +58,7 @@
 - title: "Frequency-Angular Resolving LiDAR using Chip-scale Acousto-optic Beam Steering"
   authors: Bingzhao Li, Qixuan Li, and Mo Li
   link:
+    url: https://www.nature.com/articles/s41586-023-06201-6
     display: Nature 620, 316 (2023)
 
 - title: "Tunable phononic coupling in excitonic quantum emitters"
@@ -76,7 +84,7 @@
 - title: "Long-range transport of 2D excitons with acoustic waves"
   authors: Puoming Peng, Adina Ripin, Yusen Ye, Jiayi Zhu, Changming Wu, Seokhyeong Lee, Huan Li, Takashi Taniguchi, Kenji Watanabe, Ting Cao, Xiaodong Xu, Mo Li
   link:
-    display: Nature Communications 13, 1334 (2021)
+    display: Nature Communications 13, 1334 (2022)
 
 - title: "Programmable black phosphorus image sensor for broadband optoelectronic edge computing"
   authors: Seokhyeong Lee, Ruoming Peng, Changming Wu, and Mo Li
@@ -113,6 +121,10 @@
   link:
     display: Nature Communications 12, 1-8 (2021)
 
+- title: "Refractive uses of layered and two-dimensional materials for integrated photonics"
+  authors: Akshay Singh, Seong Soon Jo, Yifei Li, Changming Wu, Mo Li, Rafael Jaramillo
+    display: ACS Photonics, 7,3270-3285 (2020)
+    
 - title: "On-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active Learning"
   authors: Heshan Yu, Changming Wu, Huairuo Zhang, Jason Hattrick-Simpers, Brian DeCost, Suchismita Sarker, Corey Oses, Cormac Toher, Stefano Curtarolo, Albert Davydov, Ritesh Agarwal, Leonid A. Bendersky, Mo Li, Apurva Mehta, Ichiro Takeuchi
   link:
@@ -131,7 +143,7 @@
 - title: "Coupled-Mode Theory for Plasmonic Resonators Integrated with Silicon Waveguides towards Mid-Infrared Spectroscopic Sensing"
   authors: Che Chen, Sang-Hyun Oh, Mo Li
   link:
-  display: Optics Express 28, 2020 (2020)
+  display: Optics Express 28, 2020-2036 (2020)
 
 - title: "Electromechanical Brillouin scattering in integrated plannar Photonics"
   authors: Huan Li, Qiyu Liu, Mo Li
@@ -171,7 +183,7 @@
 - title: "Aluminum nitride on insulator (AlNOI) platform for mid-infrared photonics"
   authors: Bowei Dong, Xianshu Luo, Shiyang Zhu, Mo Li, Dihan Hasan, Li Zhang, Soo Jin Chua, Jingxuan Wei, Yuhua Chang, Guo-Qiang Lo, Kah Wee Ang, Dim-Lee Kwong, and Chengkuo Lee
   link:
-    display: Optics Letters 44, 73 (2018)
+    display: Optics Letters 44, 73 (2019)
 
 - title: "Waveguide-Integrated Compact Plasmonic Resonators for On-Chip Mid-Infrared Laser Spectroscopy"
   authors: Che Chen, Daniel Mohr, Han-Kyu Choi, Daehan Yoo, Mo Li, Sang-Hyun Oh
@@ -228,30 +240,25 @@
   link:
     display: Applied Physics Letters 110, 051102 (2017)
 
-- title: "Flexible MgO-barrier Magnetic Tunnel Junctions on Plastic Substrates"
-  authors: Jun-Yang Chen, Yong-Chang Lau, J.M.D. Coey, Mo Li, and Jian-Ping Wang
-  link:
-    display: Scientific Reports 7, 42001 (2017)
-
-- title: "Picosecond all-optical switching of magnetic tunnel junctions"
-  authors: Jun-Yang Chen, Li He, Jian-Ping Wang, Mo Li
-  link:
-    display: Physical Review Applied 7, 021001 (2017)
-
 - title: "Three-Dimensional Integration of Black Phosphorus Photodetector with Silicon Photonics and Nanoplasmonics"
   authors: Che Chen, Nathan Youngblood, Ruoming Peng, Daehan Yoo, Daniel A. Mohr, Timothy W. Johnson, Sang-Hyun Oh, and Mo Li
   link:
     display: Nano Letters 17, 985 (2017)
 
+- title: "The study of radiation effects in emerging micro and nano electro mechanical systems (M and NEMs)"
+  authors: C. N. Arutt, et al
+  link:
+    display: Semiconductor Science and Technology 32, 013005 (2017)
+
 - title: "Integration of 2D materials on a silicon photonics platform for optoelectronics applications"
   authors: Nathan Youngblood and Mo Li
   link:
-  display: Nanophotonics, AOP (2016)
+  display: Nanophotonics,  6, 1205-1218 (2016)
 
 - title: "Layer tunable third-harmonic generation in multilayer black phosphorus"
   authors: Nathan Youngblood, Ruoming Peng, Andrei Nemilentsau, Tony Low, Mo Li
   link:
-    display: ACS Photonics 4, 8--14 (2016)
+    display: ACS Photonics 4, 8-14 (2016)
 
 - title: "Role of electron and phonon temperatures in the helicity-independent all-optical switching of GdFeCo"
   authors: J. Gorchon, R. B. Wilson, Y. Yang, A. Pattabi, J. Y. Chen, L. He, J. P. Wang, Mo Li, and J. Bokor
@@ -401,7 +408,7 @@
 - title: "Active microcantilevers based on piezoresistive ferromagnetic thin films"
   authors: H. Bhaskaran, Mo Li, D. Garcia-Sanchez, P. Zhao, I. Takeuchi, H. Tang
   link:
-    display: Applied Physics Letters 98, 013502 (2010)
+    display: Applied Physics Letters 98, 013502 (2011)
 
 - title: "Ultrahigh-Frequency Nano-Optomechanical Resonators in Slot Waveguide Ring Cavities"
   authors: Mo Li, W. Pernice, H. Tang
@@ -486,6 +493,7 @@
 - title: "Harnessing optical forces in integrated photonic circuits"
   authors: Mo Li, W. Pernice, C. Xiong, T. Baehr-Jones, M. Hochberg, H. X. Tang
   link:
+    url: https://www.nature.com/articles/nature07545
     display: Nature 456, 480 (2008)
 
 - title: "GHz photothermal effect in silicon photonic waveguide"
