@@ -10,7 +10,7 @@ title: Laboratory of Photonic Systems @ UW-ECE
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of Mo Li Lab.
-baseurl: "/light"
+baseurl: "/light/"
 url: ""
 
 include:

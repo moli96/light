@@ -75,9 +75,7 @@
   
 - name: "This could be you !"
   photo: avatar.jpg
-  info: See <a href="https://moli96.github.io/light/vacancies">openings</a> for more info
+  info: 
   email: moli96@uw.edu
   number_educ: 0
   education1:
-  education2:
-  education3:

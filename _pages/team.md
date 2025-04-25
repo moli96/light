@@ -8,9 +8,6 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-## Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -86,10 +83,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
+  <i>Role: {{ member.Role }} <br> Current position: {{ member["Current Position"] }} <br> { member.education1 }</i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -104,4 +98,3 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
