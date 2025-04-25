@@ -1,6 +1,6 @@
 ---
 title: "Mo Li Lab - Research"
-layout: research
+layout: textlay
 excerpt: "Mo Li Lab -- Research"
 sitemap: false
 permalink: /research/
