@@ -123,6 +123,7 @@
 
 - title: "Refractive uses of layered and two-dimensional materials for integrated photonics"
   authors: Akshay Singh, Seong Soon Jo, Yifei Li, Changming Wu, Mo Li, Rafael Jaramillo
+  link:
     display: ACS Photonics, 7,3270-3285 (2020)
     
 - title: "On-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active Learning"
@@ -143,7 +144,7 @@
 - title: "Coupled-Mode Theory for Plasmonic Resonators Integrated with Silicon Waveguides towards Mid-Infrared Spectroscopic Sensing"
   authors: Che Chen, Sang-Hyun Oh, Mo Li
   link:
-  display: Optics Express 28, 2020-2036 (2020)
+    display: Optics Express 28, 2020-2036 (2020)
 
 - title: "Electromechanical Brillouin scattering in integrated plannar Photonics"
   authors: Huan Li, Qiyu Liu, Mo Li
