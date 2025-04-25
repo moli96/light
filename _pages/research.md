@@ -11,7 +11,7 @@ permalink: /research/
 <div class="col-sm-12 clearfix">
  <div class="well">
   <p>Integrated optical beam steering for sensing and communication</p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/lidar.png" class="img-responsive" width="33%" style="float: left" />
+  ![]({{ site.url }}{{ site.baseurl }}/images/respic/lidar.png){: style="width: 250px; float: left; margin: 0px  10px"}
   </div>
 </div>
 
