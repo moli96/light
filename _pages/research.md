@@ -1,6 +1,6 @@
 ---
 title: "Mo Li Lab - Research"
-layout: textlay
+layout: gridlay
 excerpt: "Mo Li Lab -- Research"
 sitemap: false
 permalink: /research/
@@ -11,7 +11,7 @@ permalink: /research/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <p>Integrated optical beam steering for sensing and communication</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/lidar.png" class="img-responsive" width="33%" style="float: left" />
   </div>
 </div>
 
