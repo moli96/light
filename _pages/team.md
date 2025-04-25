@@ -83,38 +83,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>Role: {{ member.Role }} <br> Current position: {{ member["Current Position"] }}</i>
-  <ul style="overflow: hidden">
-    {% if member.number_educ == 1 %}
-   {{ member.education1 }}
-    {% endif %}
-  
-    {% if member.number_educ == 2 %}
-    <li> {{ member.education1 | markdownify}} </li>
-    <li> {{ member.education2 | markdownify}} </li>
-    {% endif %}
-  
-    {% if member.number_educ == 3 %}
-    <li> {{ member.education1 }} </li>
-    <li> {{ member.education2 }} </li>
-    <li> {{ member.education3 }} </li>
-    {% endif %}
-  
-    {% if member.number_educ == 4 %}
-    <li> {{ member.education1 }} </li>
-    <li> {{ member.education2 }} </li>
-    <li> {{ member.education3 }} </li>
-    <li> {{ member.education4 }} </li>
-    {% endif %}
-  
-    {% if member.number_educ == 5 %}
-    <li> {{ member.education1 }} </li>
-    <li> {{ member.education2 }} </li>
-    <li> {{ member.education3 }} </li>
-    <li> {{ member.education4 }} </li>
-    <li> {{ member.education5 }} </li>
-    {% endif %}
-  </ul>
+  <i>Role: {{ member.Role }} <br> Current position: {{ member["Current Position"] }} <br> { member.education1 }</i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
